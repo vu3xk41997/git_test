@@ -1,2 +1,0 @@
-There should be some code but maybe later.
-print("Hello World!")
